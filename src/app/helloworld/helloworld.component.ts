@@ -1,6 +1,6 @@
 import {Component, OnInit} from '@angular/core';
-import {Gender} from '../gender';
-import {Hero} from '../hero';
+import {Gender} from '../entity/gender';
+import {Hero} from '../entity/hero';
 
 @Component({
   selector: 'app-helloworld',
